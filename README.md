@@ -1,3 +1,4 @@
+
 <h1 align="center" style="color:lightskyblue"> Hi there! I am Nishi 👋 </h1>
 
 I am a pre-final B.tech Computer science and engineering student at SRM Institute of science and technology. My primary field of interest is web development. I am well versed with basics of both front-end and back-end developement. I am currently learning D3. I love dancing and painting. 
@@ -23,5 +24,3 @@ Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git and Heroku
   <a href="https://www.instagram.com/nishianand30/"><img width="50px" src="https://img.icons8.com/fluent/2x/instagram-new.png"></a>
   <a href="https://www.facebook.com/nishianand30/"><img width="50px" src="https://img.icons8.com/color/2x/facebook.png"></a>
 </p>
-
-
