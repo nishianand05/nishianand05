@@ -4,24 +4,11 @@ I am a third year B.tech Computer science and engineering student at SRM Institu
 
 ## 👨🏽‍💻 Programming languages i know 
 
-- HTML & CSS 
-- JavaScript
-- Python
-- C
-- C++
-- Java 
+HTML, CSS, JavaScript, Python, C, C++ and Java 
 
 ## 💻 Technologies i know
 
-- Bootstrap
-- jQuery
-- Axios
-- Jasmine
-- Node.js
-- Express.js
-- MongoDB
-- Git
-- Heroku
+Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git, Heroku
 
 ## 🚀 Projects 
 
