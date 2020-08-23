@@ -12,9 +12,9 @@ Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git and Heroku
 
 ## 🚀 Projects 
 
-<a style="text-decoration:none" href="http://www.kronoslogistics.in">Kronos logistics official website</a>
+<a class="text-gray-dark no-underline" href="http://www.kronoslogistics.in">Kronos logistics official website</a>
 <br>
-<a style="text-decoration:none" href="http://yelp-camp-by-nishi.herokuapp.com">YelpCamp</a>
+<a class="text-gray-dark no-underline" href="http://yelp-camp-by-nishi.herokuapp.com">YelpCamp</a>
 
 <h3 align="center">Reach me</h3>
 <p align="center">
