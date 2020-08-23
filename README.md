@@ -25,7 +25,7 @@ I am a third year B.tech Computer science and engineering student at SRM Institu
 
 ## Projects 
 
-<a style="text-decoration:none" href="http://www.kronoslogistics.com">Kronos logistics official website</a>
+<a style="text-decoration:none" href="http://www.kronoslogistics.in">Kronos logistics official website</a>
 <br>
 <a style="text-decoration:none" href="http://www.yelp-camp-by-nishi.herokuapp.com">YelpCamp</a>
 
