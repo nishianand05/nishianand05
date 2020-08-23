@@ -25,9 +25,9 @@ I am a third year B.tech Computer science and engineering student at SRM Institu
 
 ## Projects 
 
-<a style="text-decoration:none" href="https://www.kronoslogistics.com">Kronos logistics official website</a>
+<a style="text-decoration:none" href="http://www.kronoslogistics.com">Kronos logistics official website</a>
 <br>
-<a style="text-decoration:none" href="https://www.yelp-camp-by-nishi.herokuapp.com">YelpCamp</a>
+<a style="text-decoration:none" href="http://www.yelp-camp-by-nishi.herokuapp.com">YelpCamp</a>
 
 <h3 align="center">Reach me</h3>
 <p align="center">
@@ -38,17 +38,3 @@ I am a third year B.tech Computer science and engineering student at SRM Institu
 </p>
 
 
-<!--
-**nishianand05/nishianand05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
