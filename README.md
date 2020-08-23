@@ -8,7 +8,7 @@ HTML, CSS, JavaScript, Python, C, C++ and Java
 
 ## 💻 Technologies i know
 
-Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git, Heroku
+Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git and Heroku
 
 ## 🚀 Projects 
 
