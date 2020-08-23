@@ -1,5 +1,6 @@
-### Hi there! I am Nishi 👋
+## Hi there! I am Nishi 👋
 
+I am a 3rd year B.tech Computer science and engineering student at SRM Institute of science and technology. 
 <!--
 **nishianand05/nishianand05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
