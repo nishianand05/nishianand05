@@ -16,7 +16,7 @@ Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git and Heroku
 <br>
 <a style="text-decoration:none" href="http://yelp-camp-by-nishi.herokuapp.com">YelpCamp</a>
 
-<h3 align="center">💬 Reach me</h3>
+<h3 align="center">Reach me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nishi-anand-210734171/"><img width="50px" src="https://img.icons8.com/color/2x/linkedin.png"></a>
   <a href="https://codepen.io/nishianand30/"><img width="50px" src="https://img.icons8.com/ios-filled/2x/codepen.png"></a>
