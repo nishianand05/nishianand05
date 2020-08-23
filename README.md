@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I am Nishi 👋 </h1>
+<h1 align="center" style="color:lightskyblue"> Hi there! I am Nishi 👋 </h1>
 
 I am a pre-final B.tech Computer science and engineering student at SRM Institute of science and technology. My primary field of interest is web development. I am well versed with basics of both front-end and back-end developement. I am currently learning D3. I love dancing and painting. 
 
