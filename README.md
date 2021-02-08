@@ -17,6 +17,53 @@ Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git and Heroku
 <br>
 <a class="text-gray-dark no-underline" href="http://yelp-camp-by-nishi.herokuapp.com">YelpCamp</a>
 
+## 🚀 Code pen Projects
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/PoZxPpm">Animated button</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/abdQwEe">Animated Image gallery</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/YzwRYae">Animated sunrise/sunset</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/VweVqKW">CSS Loading icon</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/YzwdGNQ">Flexbox Side Navbar</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/GRoLeXa">CSS Spinner loading icon</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/abdrbwy">Scroll down icon </a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/jOWgWqb">Random dog image generator</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/RwrXrMO">Bitcoin current price generator</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/bGEXjmO">Random user generator</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/RwrXrMO">Bitcoin current price generator</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/LYGwvrr">Bacon ipsum generator</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/eYJqaML">Random cat image generator</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/yLOBLbw">Ron Swanson Quote Generator</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/WNwvvrq">Clock</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/oNxEZLp">Fully functional loading page</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/abNqgeZ">Random color generator</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/gOrvVXQ">Score keeper</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/YzqaQNq">Image slider</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/MWeqVEB">Movie quotes - D3</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/ZEOeaVQ">Notes app - D3</a>
+<br>
+<a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/rNLyQEM">Character frequencies  - D3</a>
+<br>
+
+
 <h3 align="center">Reach me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nishi-anand-210734171/"><img width="50px" src="https://img.icons8.com/color/2x/linkedin.png"></a>
