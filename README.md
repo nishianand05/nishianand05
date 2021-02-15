@@ -1,7 +1,7 @@
 
 <h1 align="center" style="color:lightskyblue"> Hi there! I am Nishi 👋 </h1>
 
-<div style="background:pink">I am a pre-final B.tech Computer science and engineering student at SRM Institute of science and technology. My primary field of interest is web development. I am well versed with basics of both front-end and back-end developement. I am currently learning D3. I love dancing and painting. 
+I am a pre-final B.tech Computer science and engineering student at SRM Institute of science and technology. My primary field of interest is web development. I am well versed with basics of both front-end and back-end developement. I am currently learning D3. I love dancing and painting. 
 
 ## 👨🏽‍💻 Programming languages i know 
 
@@ -63,7 +63,6 @@ Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git and Heroku
 <a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/rNLyQEM">Character frequencies  - D3</a>
 <br>
 
-</div>
 <h3 align="center">Reach me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nishi-anand-210734171/"><img width="50px" src="https://img.icons8.com/color/2x/linkedin.png"></a>
