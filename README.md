@@ -63,7 +63,7 @@ D3, Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git and Her
 <a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/rNLyQEM">Character frequencies  - D3</a>
 <br>
 
-<h3 align="center">Reach me</h3>
+<h3 align="center">Contact</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nishi-anand-210734171/"><img width="50px" src="https://img.icons8.com/color/2x/linkedin.png"></a>
   <a href="https://codepen.io/nishianand30/"><img width="50px" src="https://img.icons8.com/ios-filled/2x/codepen.png"></a>
