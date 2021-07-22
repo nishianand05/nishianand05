@@ -63,6 +63,12 @@ D3, Bootstrap, jQuery, Axios, Jasmine, Node.js, Express.js, MongoDB, Git and Her
 <a class="text-gray-dark no-underline" href="https://codepen.io/nishianand30/full/rNLyQEM">Character frequencies  - D3</a>
 <br>
 
+<img align="center" alt="Nishi's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=nishianand05&show_icons=true&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishianand05&layout=compact)](https://github.com/nishianand05/github-readme-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishianand05"/>
+
 <h3 align="center">Contact</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nishi-anand-210734171/"><img width="50px" src="https://img.icons8.com/color/2x/linkedin.png"></a>
