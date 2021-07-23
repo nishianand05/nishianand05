@@ -27,7 +27,7 @@
 <code><img height="20" src="https://image.pngaaa.com/242/4152242-middle.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-#### Projects
+#### Projects:
 
 <code><a href="https://github.com/nishianand05/Invoice-Management-Application">Invoice Management Application</a></code>
 <code><a href="https://github.com/nishianand05/PaymentDatePrediction">Payment Date Prediction</a></code>
@@ -36,14 +36,15 @@
 <code><a href="http://www.kronoslogistics.in">Kronos logistics official website</a></code>
 <code><a href="https://http://yelp-camp-by-nishi.herokuapp.com/">YelpCamp - Guided project</a></code>
 
-#### Github Stats
+#### Github Stats:
 
-<div align="center">
-  <img width="350" alt="Nishi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nishianand05&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark" />
+<div>
+  <img height="150" alt="Nishi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nishianand05&show_icons=true&count_private=true&include_all_commits=true&theme=buefy" />
+ <img height="150" alt="Nishi's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishianand05&layout=compact" />
 </div>
 
 <div align="center">
-  <h5 align="center">Contact</h5>
+  <h4 align="center">Contact</h4>
   <p align="center">
     <a href="https://www.linkedin.com/in/nishi-anand-210734171/"><img width="30px" src="https://img.icons8.com/color/2x/linkedin.png"></a>
     <a href="https://codepen.io/nishianand30/"><img width="30px" src="https://img.icons8.com/ios-filled/2x/codepen.png"></a>
