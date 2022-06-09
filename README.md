@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I am Nishi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+<h1 align="center"> Hi there! I am Nishi </h1>
 <img alt="Nishi" src="Innovation.gif" width="200" align="right"/>
 <p>I am a pre-final B.tech Computer science and engineering student at SRM Institute of Science and Technology. My primary field of interest is web development. I am well versed with basics of both front-end and back-end developement. I am currently learning React. I love dancing and painting. </p>
 
